@@ -10,3 +10,5 @@ Professor: Felippe Pires
 Integrante: Gabriel Loiola 22409772
 
 Funcionalidades: Demonstração de Pacientes, Adição de Pacientes na lista, Remoção de pacientes, edição de pacientes, determinação se paciente é prioridade ou normal, mostrar a lista de pacientes em ordem alfabetica e ordem de acordo com seu rótulo (normal ou prioridade), função de remover paciente (paciente atendido) . A função de edição é onde todas essas funções podem ser acessadas. O comando demo adiciona pacientes aleatórios a lista para testes. 
+
+Inicie o programando abrindo a pasta e escrevendo no terminal "Python main.py"
